@@ -1,0 +1,21 @@
+devan_fourie@Kwagga:~$ {
+  "name": "Armed Dillo",
+  "symbol": "ADO",
+  "description": "Army of Dillos.",
+  "image": "https://salmon-effective-mosquito-301.mypinata.cloud/ipfs/bafkreigaiqsulww3fulik
+wx5ho2ifpfqfnco5bhqs4ui5gk5rn4ggkjuoy"
+}
+Command 'name:' not found, did you mean:
+  command 'namei' from deb util-linux (2.39.3-9ubuntu6.1)
+  command 'named' from deb bind9 (1:9.18.28-0ubuntu0.24.04.1)
+Try: sudo apt install <deb name>
+symbol:: command not found
+description:: command not found
+Command 'image:' not found, did you mean:
+  command 'imagen' from deb hevea (2.36-2)
+  command 'imagej' from deb imagej (1.54g-1)
+Try: sudo apt install <deb name>
+devan_fourie@Kwagga:~$ "name": "Armed Dillo",
+  "symbol": "ADO",
+  "description": "Army of Dillos.",
+  "image": "https://github.com/devan8/Solana/blob/main/Armed%20Dillo.png.webp"}
